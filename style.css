@@ -163,7 +163,7 @@
     position:absolute;
     width:245px;
     height:245px;
-    top:175px;
+    top:185px;
     left:50%;
     transform:translate(-50%,-75%);
     background:#000;
@@ -179,7 +179,7 @@
 .wave:before{
     border-radius:45%;
     background:white;
-    animation:animate 2s linear infinite;
+    animation:animate 5s linear infinite;
     
 }
 .wave:after{
