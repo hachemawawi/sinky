@@ -179,7 +179,7 @@
 .wave:before{
     border-radius:45%;
     background:white;
-    animation:animate 5s linear infinite;
+    animation:animate 2s linear infinite;
     
 }
 .wave:after{
